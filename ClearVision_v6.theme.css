@@ -12,36 +12,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #424549;
-  --hover-color: #36393e;
-  --success-color: #43b581;
-  --danger-color: #982929;
-  --url-color: var(--main-color);
-  --undefined: 0;
-  --background-image: url('https://imgur.com/a/nGhKG8V');
-  --background-shading: 115%;
-  --background-position: Bottom center;
-  --background-size: 150%;
-  --background-repeat: no-repeat;
-  --background-attachment: fixed;
-  --background-brightness: 134%;
-  --background-contrast: 131%;
-  --background-saturation: 186%;
-  --background-grayscale: 0%;
-  --background-invert: 0%;
-  --background-blur: 5px;
-  --background-overlay: rgba(0, 0, 0, 0.1)
-  --user-popout-image: url('https://i.imgur.com/lTXNAxT.jpg');
-  --user-popout-position: center;
-  --user-popout-size: 100%;
-  --user-popout-repeat: no-repeat;
-  --user-popout-attachment: fixed;
-  --user-popout-brightness: 129%;
-  --user-popout-contrast: 115%;
-  --user-popout-saturation: 163%;
-  --user-popout-grayscale: 0%;
-  --user-popout-invert: 0%;
-  --user-popout-blur: 0px;
+  
   --user-modal-image: url('https://i.imgur.com/F3verr3.jpg');
   --user-modal-position: Bottom center;
   --user-modal-size: cover;
@@ -53,37 +24,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
-  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
-  --home-position: center;
-  --home-size: 40px;
-  --channel-unread: #ffffff;
-  --channel-color: rgb(192, 230, 240,0.4);
-  --muted-color: rgba(255,255,255,0.1);
-  --online-color: #36B87D;
-  --idle-color: #faa61a;
-  --dnd-color: #982929;
-  --streaming-color: #593695;
-  --offline-color: #808080;
-  --main-font: gg sans;
-  --code-font: Consolas;
-  --channels-width: 220px;
-  --members-width: 240px;
-  --backdrop-overlay: rgba(0,0,0,0.8);
-  --backdrop-image: var(--background-image);
-  --backdrop-position: var(--background-position);
-  --backdrop-size: var(--background-size);
-  --backdrop-repeat: var(--background-repeat);
-  --backdrop-attachment: var(--background-attachment);
-  --backdrop-brightness: var(--background-brightness);
-  --backdrop-contrast: var(--background-contrast);
-  --backdrop-saturation: var(--background-saturation);
-  --backdrop-invert: var(--background-invert);
-  --backdrop-grayscale: var(--background-grayscale);
-  --backdrop-sepia: var(--background-sepia);
-  --backdrop-blur: var(--background-blur);
-  --bd-blue: var(--main-color);
-  --bd-blue-hover: var(--hover-color);
-  --bd-blue-active: var(--hover-color);
+
 }
 
 /* Any custom CSS below here */
