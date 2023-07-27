@@ -12,14 +12,14 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #2780e6;
+  --main-color: #5BB9C9;
   --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
   --background-image: url('https://i.imgur.com/CWvdAuU.jpg');
-  --background-shading: 100%;
+  --background-shading: 115%;
   --background-position: Bottom center;
   --background-size: 150%;
   --background-repeat: repeat;
@@ -41,7 +41,7 @@
   --user-popout-saturation: 163%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 0px;
   --user-modal-image: url('https://i.imgur.com/F3verr3.jpg');
   --user-modal-position: Bottom center;
   --user-modal-size: cover;
@@ -52,7 +52,7 @@
   --user-modal-saturation: 195%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
