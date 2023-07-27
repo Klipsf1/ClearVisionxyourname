@@ -29,8 +29,8 @@
   --background-saturation: 186%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-blur: 5px;
+  --background-overlay: rgba(0, 0, 0, 0.9)
   --user-popout-image: url('https://i.imgur.com/lTXNAxT.jpg');
   --user-popout-position: center;
   --user-popout-size: 100%;
@@ -57,7 +57,7 @@
   --home-position: center;
   --home-size: 40px;
   --channel-unread: #F44336;
-  --channel-color: rgb(255,0,243,0.3);
+  --channel-color: rgb(192, 230, 240,0.25);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #36B87D;
   --idle-color: #faa61a;
